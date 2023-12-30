@@ -3,7 +3,7 @@ export const Bio = {
   nickname: "Mickie",
   roles: ["Frontend Developer", "UI Designer"],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I have a passion for building websites, and I am proud to possess the ability to create anything through a combination of creativity and diligent knowledge to achieve optimal performance.",
   github: "https://github.com/MickieProjects",
   resume:
     "https://drive.google.com/file/d/11J1UUvzNL3zbApJAb7ZvjCHppv6fQBFD/view?usp=sharing",
